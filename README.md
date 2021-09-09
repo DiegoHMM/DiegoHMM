@@ -20,8 +20,8 @@ elif tired:
 
   
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohmm&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohmm&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+    <img height="180em" width:"45%" src="https://github-readme-stats.vercel.app/api?username=diegohmm&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width:"45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohmm&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
 <h3 align="left">Connect with me:</h3>
