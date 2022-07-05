@@ -6,7 +6,7 @@ if awake:
 elif tired:
     drink_coffee()
 ```
-- 🎓 Bachelor in Computer Science from the Universidade Federal de Ouro Preto - UFOP
+- 🎓 Bachelor of Computer Science - Universidade Federal de Ouro Preto - UFOP
 
 - 🎓 Master's degree student at the Universidade Federal de Minas Gerais - UFMG
 
