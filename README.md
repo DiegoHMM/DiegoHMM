@@ -6,11 +6,7 @@
 
 - 🛰️ Currently researching Machine Learning techniques to be applied on remote sensors
 
-  
-<div>
-    <img height="180em" width:"45%" src="https://github-readme-stats.vercel.app/api?username=diegohmm&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" width:"45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohmm&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
+ 
   
 <h3 align="left">Connect with me: diegohmarques.ti@gmail.com</h3>
 <p align="left">
