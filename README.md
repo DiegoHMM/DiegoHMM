@@ -1,11 +1,3 @@
-<h1 align="left">Welcome to my github page! 👋</h1>
-
-```python
-if awake:
-    code()
-elif tired:
-    drink_coffee()
-```
 - 🎓 Bachelor of Computer Science - Universidade Federal de Ouro Preto - UFOP
 
 - 🎓 Master's degree student at the Universidade Federal de Minas Gerais - UFMG
@@ -20,7 +12,7 @@ elif tired:
     <img height="180em" width:"45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohmm&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: diegohmarques.ti@gmail.com</h3>
 <p align="left">
   
 
