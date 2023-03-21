@@ -1,6 +1,6 @@
 - 🎓 Bachelor of Computer Science - Universidade Federal de Ouro Preto - UFOP
 
-- 🎓 Master's degree student at the Universidade Federal de Minas Gerais - UFMG
+- 🎓 Master's student at the Universidade Federal de Minas Gerais - UFMG
 
 - 🧠 I'm currently working as a Machine Learning Intern at Technium
 
