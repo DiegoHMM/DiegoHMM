@@ -1,10 +1,11 @@
 - 🎓 Graduated with a Bachelor's degree in Computer Science from the Federal University of Ouro Preto (UFOP).
 
-- 🎓 Currently pursuing a Master's degree at the Federal University of Minas Gerais (UFMG).
+- 🎓 I'm studying for a master's degree at the Federal University of Minas Gerais (UFMG)
 
-- 🧠 Presently occupying the role of Machine Learning Intern at Technium, an organization specializing in advanced technology solutions.
+- 🧠 Machine Learning Intern at Technium, an organization specializing in advanced technology solutions.
 
-- 🛰️Presently investigating Machine Learning strategies for computer vision with remote sensing technology.
+- 🛰️Researcher in the area of ​​machine learning for computer vision with remote sensing technology.
+
 
  
   
