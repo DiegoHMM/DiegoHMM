@@ -1,10 +1,10 @@
 - 🎓 Graduated with a Bachelor's degree in Computer Science from the Federal University of Ouro Preto (UFOP).
 
-- 🎓 I'm studying for a master's degree at the Federal University of Minas Gerais (UFMG)
+- 🎓 Holds a Master's degree in Computer Science from the Federal University of Minas Gerais (UFMG).
 
-- 🧠 Machine Learning Engineer at PRODEMGE, the technology body of the state of Minas Gerais.
+- 🧠 Machine Learning Engineer at PRODEMGE, the state of Minas Gerais's official technology company.
 
-- 🛰️Researcher in the area of ​​machine learning for computer vision with remote sensing technology.
+- 🛰️Researcher specializing in ML/computer vision.
 
 
   
